@@ -1,7 +1,7 @@
 Raspberry Pi Pico pinout diagram
 
                               ┌╌ LED (GP25)
-                              ┆ ┏━━━━┓          
+                              ┆ ┏━━━━┓
                           ┌─────┃    ┃─────┐
     | SPI0 RX  | GP0  | 01│●  ┆ ┗━━━━┛    ●│40 | VBUS
     | SPI0 CSn | GP1  | 02│●  ⏄           ●│39 | VSYS
